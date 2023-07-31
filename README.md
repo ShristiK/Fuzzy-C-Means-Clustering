@@ -1,5 +1,5 @@
 # Fuzzy-C-Means-Clustering
-<p align="center"> <b>Shristi Kumari(BITS Pilani)</b> </p>
+<p align="center"> <b>Shristi Kedia(BITS Pilani)</b> </p>
 This project is part of an Assignment on Fuzzy C-means Clustering. It aims at analyzing Fuzzy C-means clustering algorithm and work on its application in the field of image recognition using Python.
 
 # Introduction
